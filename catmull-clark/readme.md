@@ -9,6 +9,9 @@ The implementation is for one-iteration only. Multiple iterations is achieved by
 
 Updating the current implementation such that the num. of iterations is user-controlled should be very easy.
 
+parameters:
+![parameters](images/diagram.svg)
+
 [reference: Digital Grotesque](https://dbt.arch.ethz.ch/project/digital-grotesque-at-centre-pompidou/)
 
 [reference: Catmull-Clark Algorithm](https://en.wikipedia.org/wiki/Catmull%E2%80%93Clark_subdivision_surface)
